@@ -1,0 +1,20 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon-like Node.js storefront with the MySQL database backend.",
+  "main": "bamazonCustomer.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saladshootrdlux/bamazon.git"
+  },
+  "author": "Case Griffiths",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angrbrd/bamazon/issues"
+  },
+  "homepage": "https://github.com/saladshootrdlux/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.0.1",
+    "mysql": "^2.16.0"
+  }
+}
