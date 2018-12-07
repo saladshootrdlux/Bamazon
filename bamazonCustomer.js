@@ -93,7 +93,7 @@ function promptUserPurchase() {
 					})
 				} else {
 					console.log('Out of stock in that quantity!');
-					console.log('Please try a smaller amount or select a different amount and try again.');
+					console.log('Please try a smaller amount or select a different product and try again.');
 					console.log("\n---------------------------------------------------------------------\n");
 
 					displayInventory();
